@@ -1,0 +1,94 @@
+{
+    "movies": [
+        {
+            "id": "1234567890",
+            "name": "Jenil",
+            "image": "image1.jpg",
+            "description": "Desc1 Desc1",
+            "actors": "Actor1,Act2",
+            "review": "Good movie",
+            "rating": "7.5/10"
+        },
+        {
+            "id": "2345678901",
+            "name": "Satish",
+            "image": "image2.jpg",
+            "description": "Desc2 Desc2",
+            "actors": "Actor3,Act4",
+            "review": "Great film",
+            "rating": "8.0/10"
+        },
+        {
+            "id": "3456789012",
+            "name": "MovieName3",
+            "image": "image3.jpg",
+            "description": "Desc3 Desc3",
+            "actors": "Actor5,Act6",
+            "review": "Nice plot",
+            "rating": "6.5/10"
+        },
+        {
+            "id": "4567890123",
+            "name": "MovieName4",
+            "image": "image4.jpg",
+            "description": "Desc4 Desc4",
+            "actors": "Actor7,Act8",
+            "review": "Bad movie",
+            "rating": "4.5/10"
+        },
+        {
+            "id": "5678901234",
+            "name": "MovieName5",
+            "image": "image5.jpg",
+            "description": "Desc5 Desc5",
+            "actors": "Actor9,Act0",
+            "review": "Amazing film",
+            "rating": "9.0/10"
+        },
+        {
+            "id": "6789012345",
+            "name": "MovieName6",
+            "image": "image6.jpg",
+            "description": "Desc6 Desc6",
+            "actors": "Actor1,Act2",
+            "review": "Not bad",
+            "rating": "6.0/10"
+        },
+        {
+            "id": "7890123456",
+            "name": "MovieName7",
+            "image": "image7.jpg",
+            "description": "Desc7 Desc7",
+            "actors": "Actor3,Act4",
+            "review": "Awesome plot",
+            "rating": "8.5/10"
+        },
+        {
+            "id": "8901234567",
+            "name": "MovieName8",
+            "image": "image8.jpg",
+            "description": "Desc8 Desc8",
+            "actors": "Actor5,Act6",
+            "review": "Boring film",
+            "rating": "5.0/10"
+        },
+        {
+            "id": "9012345678",
+            "name": "MovieName9",
+            "image": "image9.jpg",
+            "description": "Desc9 Desc9",
+            "actors": "Actor7,Act8",
+            "review": "Thrilling",
+            "rating": "7.8/10"
+        },
+        {
+            "id": "0123456789",
+            "name": "MovieName10",
+            "image": "image10.jpg",
+            "description": "Desc0 Desc0",
+            "actors": "Actor9,Act0",
+            "review": "Decent film",
+            "rating": "6.7/10"
+        }
+    ]
+}

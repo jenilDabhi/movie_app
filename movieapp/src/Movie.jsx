@@ -3,7 +3,7 @@ import { IoMdSearch } from "react-icons/io";
 import "./style.css"
 
 
-const Movie = () => {
+const Movie = () => { 
     //this is useState hook
     const [search, setSearch] = useState('Avenger')
 
