@@ -4,7 +4,7 @@ import "./style.css"
 
 
 const Movie = () => {
-
+    //this is useState hook
     const [search, setSearch] = useState('Avenger')
 
     const [data, setData] = useState([])
